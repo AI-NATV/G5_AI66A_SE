@@ -3,6 +3,7 @@ __pycache__/
 *.pyc
 venv/
 .env
+.claude
 # Data & models (too large for Git)
 data/raw/*.csv
 *.pkl
