@@ -7,6 +7,8 @@ This is the Software Engineering project by Group 5 (AI66A). The team developed 
 | Name                  | GitHub username           | Role           |
 | --- | --- | --- |
 | Nguyen Hoang Tuan     | Chidokato5376             | Leader         |
+| Nguyen Thi Nhien      | nguyennhien2412           | Member         |
+
 
 ## Setup
 
