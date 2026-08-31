@@ -1,19 +1,19 @@
-# G5_AI66A_SE — Personal expense management app
+# Personal Expense Management App
 
-This is the Software Engineering project by Group 5 (AI66A). The team developed an application that enables users to record daily income and expenses, automatically categorize transactions based on descriptions, aggregate and visualize monthly spending via charts, and receive alerts when exceeding set budget limits. The product was developed following the full software engineering lifecycle—including backend with REST API, database integration, user authentication, automated testing, and a CI pipeline—and managed via Git/GitHub using the Agile methodology.
+An application designed for individuals who want to **manage their daily income and expenses**, automatically categorize transactions, track monthly spending, and receive alerts when their spending exceeds the set budget.
 
-## Team
+**Group:** G5_AI66A · **Members:** @Chidokato5376 @nguyennhien2412 @vantran2801 @levanduc36  
+**Product Owner (fixed for the entire semester):** @Chidokato5376  
+**Scrum Master (rotates every sprint):** @vantran2801 (Sprint 1)  
+**Board:** [View 1 · @Chidokato5376's untitled project](https://github.com/orgs/SE-FDA-NEU/projects/12/views/1)
 
-| Name                  | GitHub username           | Role           |
-| --- | --- | --- |
-| Nguyen Hoang Tuan     | Chidokato5376             | Leader         |
-| Nguyen Thi Nhien      | nguyennhien2412           | Member         |
-| Tran Khai Van         | vantran2801               | Member         |
-| Duong Dinh Anh        | levanduc36                | Member         |
-
-## Setup
+## Running the Project
 
 ```bash
+# Clone the repository
 git clone https://github.com/AI-NATV/G5_AI66A_SE.git
 cd G5_AI66A_SE
+
+# Installation and run commands
+# TODO: Add dependency installation and backend/frontend startup commands
 ```
