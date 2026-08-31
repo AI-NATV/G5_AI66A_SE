@@ -1,13 +1,43 @@
+# Secrets - never commit these. CI will reject the PR.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials.json
+
+# Databases and dumps
+*.sqlite
+*.sqlite3
+*.db
+*.sql
+*.dump
+
 # Python
 __pycache__/
-*.pyc
+*.py[cod]
+.venv/
 venv/
-.env
+.pytest_cache/
+.coverage
+htmlcov/
+junit.xml
+
+# Node
+node_modules/
+dist/
+build/
+.next/
+npm-debug.log*
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Project-specific — data, models, local tooling
 .claude
-# Data & models (too large for Git)
 data/raw/*.csv
 *.pkl
 checkpoints/
-# Editor / OS junk
-.vscode/
-.DS_Store
