@@ -5,7 +5,7 @@ An application designed for individuals who want to **manage their daily income 
 **Group:** G5_AI66A · **Members:** @Chidokato5376 @nguyennhien2412 @vantran2801 @levanduc36  
 **Product Owner (fixed for the entire semester):** @Chidokato5376  
 **Scrum Master (rotates every sprint):** @vantran2801 (Sprint 1)  
-**Board:** [View 1 · @Chidokato5376's untitled project](https://github.com/orgs/SE-FDA-NEU/projects/12/views/1)
+**Board:** Sprint Board — Personal Expense Management App (https://github.com/orgs/SE-FDA-NEU/projects/12/views/1)
 
 ## Running the Project
 
